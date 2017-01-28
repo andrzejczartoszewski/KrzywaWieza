@@ -1,0 +1,102 @@
+body {
+  width: 800px;
+  margin: 0 auto; }
+
+article.d1 {
+  width: 800px;
+  background-color: #d0c9c9;
+  padding: 20px;
+  margin: 20px;
+  border: solid 2px black; }
+  article.d1 header.h1 {
+    text-align: center; }
+    article.d1 header.h1 i.re {
+      color: red; }
+    article.d1 header.h1 p.a1 {
+      display: inline-block;
+      padding: 10px; }
+    article.d1 header.h1 i.b1 {
+      color: blue; }
+  article.d1 img.e1 {
+    width: 500px;
+    height: 200px;
+    margin-right: 30px;
+    float: left; }
+  article.d1 div {
+    background-color: black;
+    width: 750px;
+    height: 40px;
+    margin: 0px auto;
+    border: 5px dashed red; }
+    article.d1 div q {
+      color: white;
+      margin: 10px; }
+  article.d1 footer {
+    padding: 10px; }
+
+article.d2 {
+  width: 800px;
+  background-color: #d0c9c9;
+  padding: 20px;
+  margin: 20px;
+  border: solid 2px black; }
+  article.d2 header.h2 {
+    margin-left: 10px; }
+    article.d2 header.h2 i.rem {
+      color: #96c8ff; }
+    article.d2 header.h2 p.f1 {
+      display: inline-block;
+      padding: 5px;
+      color: #96c8ff; }
+    article.d2 header.h2 i.g1 {
+      color: #96c8ff; }
+  article.d2 img.e2 {
+    width: 500px;
+    height: 200px;
+    margin-right: 30px;
+    float: right; }
+  article.d2 div {
+    background-color: black;
+    width: 750px;
+    height: 40px;
+    margin: 0px auto;
+    border: 5px dashed red; }
+    article.d2 div q {
+      color: white;
+      margin: 10px; }
+  article.d2 footer.i1 {
+    padding: 10px;
+    text-align: center; }
+
+article.d3 {
+  width: 800px;
+  padding: 20px;
+  margin: 20px;
+  border: solid 2px black; }
+  article.d3 header {
+    margin-left: 10px; }
+    article.d3 header i.gem {
+      color: #79878a; }
+    article.d3 header p.f2 {
+      display: inline-block;
+      padding: 5px;
+      color: #79878a; }
+    article.d3 header i.g2 {
+      color: #79878a; }
+  article.d3 img {
+    width: 500px;
+    height: 200px;
+    margin-right: 30px; }
+  article.d3 div {
+    background-color: black;
+    width: 750px;
+    height: 40px;
+    margin: 0px auto;
+    border: 5px dashed red; }
+    article.d3 div q {
+      color: white;
+      margin: 10px; }
+  article.d3 footer {
+    padding: 10px; }
+
+/*# sourceMappingURL=style.css.map */

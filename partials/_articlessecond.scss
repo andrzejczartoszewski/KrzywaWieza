@@ -1,0 +1,43 @@
+article.d2{
+	width: 800px;
+	background-color: $color1;
+	padding: 20px;
+	margin: 20px;
+	border:solid 2px black;
+	header.h2{
+		margin-left: 10px;
+		i.rem{
+			color: $color2;
+		}
+		p.f1{
+			display: inline-block;
+			padding:5px;
+			color: $color2;
+		}
+		i.g1{
+			color: $color2;
+		}
+	}
+	img.e2{
+		width: 500px;
+		height: 200px;
+		margin-right: 30px;
+		float: right;
+	}
+	div{
+		background-color:black;
+		width: 750px;
+		height: 40px;
+		margin: 0px auto;
+		border: 5px dashed red;
+		q{
+			color:white;
+			margin: 10px;
+		}
+	}
+	footer.i1{
+		padding:10px;
+		text-align: center;
+	}
+
+}
